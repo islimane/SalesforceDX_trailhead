@@ -1,0 +1,257 @@
+[
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1516626124000,
+            "changeTime": 1516626124000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1516626124000,
+            "changeTime": 1516626124000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1516967906000,
+            "changeTime": 1516967906000,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1516626124000,
+            "changeTime": 1516626124000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1516963548000,
+            "changeTime": 1516963548000,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9756,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9708,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9756,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9708,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1516964472000,
+            "changeTime": 1516964472000,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1516967906000,
+            "changeTime": 1516967906000,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 362,
+            "modifiedTime": 1516968035000,
+            "changeTime": 1516968035000,
+            "contentHash": "60be0c763be6e5cea15dd9f8decb24058563cfcb"
+        }
+    ],
+    [
+        "/Users/ismaelslimane/projects/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ismaelslimane/projects/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1516967906000,
+            "changeTime": 1516967906000,
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f"
+        }
+    ]
+]
